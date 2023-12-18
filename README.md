@@ -4,7 +4,7 @@
 
 
 :book: Прошел курс Java-разработчик с 21 октября 2021 — 13 июня 2022   
-Так же прошел курс Android-разработчик с нуля с 31 августа 2022 — 31 октября 2023 онлайн-школе "Нетология" и защитил [Дипломный проект](https://github.com/nmak1/Social_Network).
+:book: Так же прошел курс Android-разработчик с нуля с 31 августа 2022 — 31 октября 2023 онлайн-школе "Нетология" и защитил [Дипломный проект](https://github.com/nmak1/Social_Network).
 
 <p align = 'center'>
  <a href="https://github-readme-stats.vercel.app/api?username=mspirat&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=nmak1&show_icons=true&count_private=true" /></a>
@@ -15,7 +15,7 @@
 
 <p align='center'>
   
- :mailbox_with_mail: E-mail для связи: <a href='mailto:nmak1@rambler.ru'>@rambler.ru</a>
+ E-mail для связи: <a href='mailto:nmak1@rambler.ru'>@rambler.ru</a>
  
 </p>
 
