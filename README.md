@@ -13,10 +13,10 @@
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=nmak1)](https://github.com/nmak1/github-profile-trophy)    
 
-:mailbox_with_mail:
+
 
 <p align='center'>
- <a href="mailto:nmak1@rambler.ru">Email для связи: nmak1@rambler.ru</a>
+:mailbox_with_mail: <a href="mailto:nmak1@rambler.ru">Email для связи: nmak1@rambler.ru</a>
 </p> 
 
 ## :wrench: Инструменты
