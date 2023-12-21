@@ -11,13 +11,13 @@
 <a href="https://github.com/mspirat/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmak1&layout=compact" /></a>
  </p>
  
-[![trophy](https://github-profile-trophy.vercel.app/?nmak1)](https://github.com/nmak1/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nmak1)](https://github.com/nmak1/github-profile-trophy)    
+
+:mailbox_with_mail:
 
 <p align='center'>
-  
- E-mail для связи: <a href='mailto:nmak1@rambler.ru'>@rambler.ru</a>
- 
-</p>
+ <a href="mailto:nmak1@rambler.ru">Email для связи: nmak1@rambler.ru</a>
+</p> 
 
 ## :wrench: Инструменты
 *   языки Java/Kotlin
