@@ -1,4 +1,4 @@
-
+уц
 <h1 align="center">Привет, меня зовут Николай</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
@@ -40,6 +40,7 @@
 ***Задача***: Создание клиент-серверного приложения по типу LinkedIn.
 
 ## :page_with_curl: Сертификаты и Дипломы:
+* [Профессиональная работа с Python](https://1drv.ms/b/c/172ec0bf58142f77/EVS5wlkmSJdAsh1jzYruAg8BO0OzADcu9P0NzZ7ici5cPg?e=PoVnHU)<br>
 * [Разработка мобильных приложений с нуля](https://1drv.ms/b/s!AncvFFi_wC4X1mMbiI7gHpDumRqD?e=yU5Wc9) <br>
 * [GIT - система контроля версий](https://netology.ru/sharing/e514d44c9abed50312f0983c11501462?utm_source=social&utm_campaign=achievements) <br>
 * [Разработка приложений на Kotlin](https://1drv.ms/b/s!AncvFFi_wC4XyHajGJOsP23tPSja?e=N8vubL) <br>
