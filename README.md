@@ -20,7 +20,7 @@
 </p> 
 
 ## :wrench: Инструменты
-*   языки Java/Kotlin/Python
+*   языки Java/Kotlin/Python/JavaScript
 *   HTML
 *   архитектура MVVM
 *   библиотеки Room, Retrofit, Firebase, Glide, Coroutines, Flow, Paging, Hilt, Yandex Mapkit
@@ -50,7 +50,8 @@
 * [Программирование на Kotlin под Android](https://1drv.ms/b/s!AncvFFi_wC4XzR08pXCBZXa3j6Ts?e=zRcljD) <br>
 * [Промышленная разработка под Android](https://1drv.ms/b/s!AncvFFi_wC4X1XT3bKSa6fKnJb4Q?e=c0hafY) <br>
 * [Продвинутая разработка под Andriod](https://1drv.ms/b/s!AncvFFi_wC4X1WXIM03Jr8kHdCaQ?e=oSYHHy )<br>
-* **[Диплом об окончании курса Android - разработчик](https://1drv.ms/b/s!AncvFFi_wC4X1mxr5IIQ5FSnRkKs?e=GeIn9B )**<br>
+* [Диплом об окончании курса Android - разработчик](https://1drv.ms/b/s!AncvFFi_wC4X1mxr5IIQ5FSnRkKs?e=GeIn9B )<br>
+* [JavaScript: углубленный курс веб разработки](https://1drv.ms/b/c/172ec0bf58142f77/IQAdnVs0tJerR52Q4BrAHyUgAXpEQQ36X2D5k2q3j1lfhEg?e=cNt0Mc)<br>
 
 #### :handshake: Буду рад рассмотреть от вас предложения о сотрудничестве :handshake:
 
