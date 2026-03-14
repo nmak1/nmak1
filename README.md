@@ -1,57 +1,97 @@
+### Привет, я Николай 👋
 
-<h1 align="center">Привет, меня зовут Николай</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+Я управленец с 20-летним стажем, который построил карьеру от территориального менеджера до собственника бизнеса. Последние 2 года плотно занимаюсь разработкой — прошел путь от Java до Fullstack Python, сделал несколько учебных проектов и вышел на уровень, когда могу создавать сложные backend-системы с нуля.
 
+**Моя главная фишка:** я не просто пишу код, я понимаю, как устроен бизнес изнутри. Я знаю, что такое P&L, открытие точек с нуля, переговоры с поставщиками и госорганами, управление командами до 150 человек. Сейчас я соединяю этот опыт с техническими навыками, чтобы создавать реально работающие продукты.
 
-:book: Прошел курс Java-разработчик с 21 октября 2021 — 13 июня 2022   
-:book: Так же прошел курс Android-разработчик с нуля с 31 августа 2022 — 31 октября 2023 онлайн-школе "Нетология" и защитил [Дипломный проект](https://github.com/nmak1/Social_Network).
+---
 
-<p align = 'center'>
- <a href="https://github-readme-stats.vercel.app/api?username=mspirat&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=nmak1&show_icons=true&count_private=true" /></a>
-<a href="https://github.com/mspirat/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmak1&layout=compact" /></a>
- </p>
- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nmak1)](https://github.com/nmak1/github-profile-trophy)    
+### 💼 Что я умею
 
+**Управление:**
+- Стратегическое планирование и запуск бизнеса с нуля (открыл два медцентра, 25+ торговых точек)
+- Управление бюджетами и P&L (EBITDA, ROI, валовая выручка)
+- Переговоры с госорганами, арендодателями, подрядчиками
+- Формирование и мотивация команд (до 150 человек)
 
+**Разработка:**
+- **Backend:** Python (Django/DRF), Java (Core), работа с API, базы данных (SQLite/PostgreSQL)
+- **Мобильная разработка:** Kotlin, Android SDK, MVVM, Room, Retrofit, Firebase
+- **Фронтенд:** HTML, CSS, JavaScript (базовый/продвинутый)
+- **Инструменты:** Git, GitHub, Celery, Redis, Swagger
 
-<p align='center'>
-:mailbox_with_mail: <a href="mailto:nmak1@rambler.ru">Email для связи: nmak1@rambler.ru</a>
-</p> 
+---
 
-## :wrench: Инструменты
-*   языки Java/Kotlin/Python/JavaScript
-*   HTML
-*   архитектура MVVM
-*   библиотеки Room, Retrofit, Firebase, Glide, Coroutines, Flow, Paging, Hilt, Yandex Mapkit
-*   система контроля версий Git, GitHub
-*   Django 
+### 🚀 Флагманский проект: ProcurePro — Система автоматизации закупок
 
+**Стек:** Django 4.2, Django REST Framework, Celery, Redis, JWT, PostgreSQL
 
-## :computer: Проекты:
-:heavy_check_mark: [Учебный проект по Android разработке (Layout)](https://github.com/nmak1/Layout )<br>
-***Задача***: Создание клиент-серверного приложения по типу ВКонтакте.
+**Суть проекта:** Полноценная backend-система для автоматизации закупок в розничной сети. То, что я делал руками как управленец (договаривался с поставщиками, считал закупки, контролировал остатки), теперь можно автоматизировать.
 
-:heavy_check_mark: [Telegram-бот для поиска интересных людей в VK на основе ваших предпочтений.)](https://github.com/nmak1/VKinder_test )<br>
-***Задача***: Telegram-бот для поиска интересных людей в VK на основе ваших предпочтений.
+**Что реализовано:**
+- Многоранговая система пользователей (клиенты, поставщики, администраторы)
+- Каталог товаров с иерархией категорий и характеристиками
+- Корзина с поддержкой товаров от разных поставщиков в одном заказе
+- Полноценный цикл заказов со статусами и историей
+- Асинхронные задачи через Celery (email-уведомления, импорт/экспорт)
+- REST API с полной документацией (Swagger)
+- Админ-панель для управления всеми сущностями
 
-:heavy_check_mark: [Карты, геопозиционирование, маркеры (Yandex Maps)](https://github.com/nmak1/YandexMaps )<br>
-***Задача***: Создание приложения для путешествий по России с возможностью отмечать места на карте и хранить их в памяти.
+**Почему этот проект важен:** Я прошел путь от бизнес-задачи до ее технической реализации. Система готова к доработке под конкретные нужды и потенциально может стать коммерческим продуктом для небольших торговых сетей.
 
-:heavy_check_mark: [Дипломный проект по Android разработке(NeWorkApp)](https://github.com/nmak1/Social_Network )<br>
-***Задача***: Создание клиент-серверного приложения по типу LinkedIn.
+👉 [Ссылка на репозиторий ProcurePro](https://github.com/nmak1/ProcurePro)
 
-## :page_with_curl: Сертификаты и Дипломы:
-* [Профессиональная работа с Python](https://1drv.ms/b/c/172ec0bf58142f77/EVS5wlkmSJdAsh1jzYruAg8BO0OzADcu9P0NzZ7ici5cPg?e=PoVnHU)<br>
-* [HTML и CSS: основы веб-верстки](https://1drv.ms/b/c/172ec0bf58142f77/EWLO7iTFoD1DtdMgc2F_LasBrVDM9pdPxVoWk2QoefRa6Q?e=7TPPFM)<br>
-* [Разработка мобильных приложений с нуля](https://1drv.ms/b/s!AncvFFi_wC4X1mMbiI7gHpDumRqD?e=yU5Wc9) <br>
-* [GIT - система контроля версий](https://netology.ru/sharing/e514d44c9abed50312f0983c11501462?utm_source=social&utm_campaign=achievements) <br>
-* [Разработка приложений на Kotlin](https://1drv.ms/b/s!AncvFFi_wC4XyHajGJOsP23tPSja?e=N8vubL) <br>
-* [Программирование на Kotlin под Android](https://1drv.ms/b/s!AncvFFi_wC4XzR08pXCBZXa3j6Ts?e=zRcljD) <br>
-* [Промышленная разработка под Android](https://1drv.ms/b/s!AncvFFi_wC4X1XT3bKSa6fKnJb4Q?e=c0hafY) <br>
-* [Продвинутая разработка под Andriod](https://1drv.ms/b/s!AncvFFi_wC4X1WXIM03Jr8kHdCaQ?e=oSYHHy )<br>
-* [Диплом об окончании курса Android - разработчик](https://1drv.ms/b/s!AncvFFi_wC4X1mxr5IIQ5FSnRkKs?e=GeIn9B )<br>
-* [JavaScript: углубленный курс веб разработки](https://1drv.ms/b/c/172ec0bf58142f77/IQAdnVs0tJerR52Q4BrAHyUgAXpEQQ36X2D5k2q3j1lfhEg?e=cNt0Mc)<br>
+---
 
-#### :handshake: Буду рад рассмотреть от вас предложения о сотрудничестве :handshake:
+### 📱 Другие проекты
+
+**1. Социальная сеть (NeWorkApp) — Диплом по Android-разработке**
+- **Стек:** Kotlin, Retrofit, Room, Hilt, Yandex Maps
+- Клиент-серверное приложение по типу LinkedIn. Посты, файлы, геолокация.
+- [Ссылка на репозиторий](https://github.com/nmak1/Social_Network)
+
+**2. Telegram-бот VKinder**
+- **Стек:** Python, VK API, Telegram API
+- Бот для поиска людей в VK по предпочтениям. Интеграция двух API, обработка данных.
+- [Ссылка на репозиторий](https://github.com/nmak1/VKinder_test)
+
+**3. YandexMaps — приложение для путешественников**
+- **Стек:** Kotlin, Yandex Mapkit, Room
+- Отметки на карте с локальным сохранением.
+- [Ссылка на репозиторий](https://github.com/nmak1/YandexMaps)
+
+---
+
+### 🎓 Образование
+
+**Нетология**
+- *Fullstack-разработчик на Python* (2024, в процессе)
+- *Android-разработчик с нуля* (2023) — диплом NeWorkApp
+- *Java-разработчик* (2022)
+
+**Нижегородский Политехнический Институт**
+- Инженер, факультет Автоматики и электромеханики (1996)
+
+---
+
+### 📌 Что ищу
+
+Роль на стыке бизнеса и IT. Мне интересно:
+- Управлять IT-проектами и продуктами (Project Manager, IT-продюсер)
+- Быть техническим руководителем небольших команд
+- Участвовать в стартапах как технический сооснователь
+- Строить IT-продукты для реального сектора (мой опыт в медицине, ритейле, развлечениях — это конкурентное преимущество)
+
+Я умею говорить с бизнесом на языке денег и с разработчиками — на языке кода. Ищу тех, кому нужен именно такой синтез.
+
+---
+
+### 📬 Контакты
+
+- **Email:** nmak1@rambler.ru (быстрее всего отвечаю сюда)
+- **GitHub:** [nmak1](https://github.com/nmak1)
+
+---
+
+**P.S.** Если у вас есть проект, где нужен человек, понимающий и в коде, и в управлении, — давайте поговорим. Я не просто напишу код, я помогу сделать так, чтобы это приносило деньги.
 
