@@ -74,8 +74,8 @@
 
 **1. VK-бот для «Дорогою добра»
 - **Стек:** Python	3.8+, Фреймворк	vkbottle	4.0+, База данных	SQLite	3.x, Платежи	Mixplat API	v1, Логирование	APScheduler	3.9+, Таблицы	Google Sheets API	v4
- - Бот для помощи центру помощи детям и взрослым с особенностями развития.
- - [Ссылка на репозиторий](https://github.com/nmak1/bot_dorogoyu_dobra)
+- Бот для помощи центру помощи детям и взрослым с особенностями развития.
+- [Ссылка на репозиторий](https://github.com/nmak1/bot_dorogoyu_dobra)
    
 **2. Социальная сеть (NeWorkApp) — Диплом по Android-разработке**
 - **Стек:** Kotlin, Retrofit, Room, Hilt, Yandex Maps
