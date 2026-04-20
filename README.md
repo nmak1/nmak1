@@ -72,17 +72,22 @@
 
 ### 📱 Другие проекты
 
-**1. Социальная сеть (NeWorkApp) — Диплом по Android-разработке**
+**1. VK-бот для «Дорогою добра»
+- **Стек:** Python	3.8+, Фреймворк	vkbottle	4.0+, База данных	SQLite	3.x, Платежи	Mixplat API	v1, Логирование	APScheduler	3.9+, Таблицы	Google Sheets API	v4
+ - Бот для помощи центру помощи детям и взрослым с особенностями развития.
+ - [Ссылка на репозиторий](https://github.com/nmak1/bot_dorogoyu_dobra)
+   
+**2. Социальная сеть (NeWorkApp) — Диплом по Android-разработке**
 - **Стек:** Kotlin, Retrofit, Room, Hilt, Yandex Maps
 - Клиент-серверное приложение по типу LinkedIn. Посты, файлы, геолокация.
 - [Ссылка на репозиторий](https://github.com/nmak1/Social_Network)
 
-**2. Telegram-бот VKinder**
+**3. Telegram-бот VKinder**
 - **Стек:** Python, VK API, Telegram API
 - Бот для поиска людей в VK по предпочтениям. Интеграция двух API, обработка данных.
 - [Ссылка на репозиторий](https://github.com/nmak1/VKinder_test)
 
-**3. YandexMaps — приложение для путешественников**
+**4. YandexMaps — приложение для путешественников**
 - **Стек:** Kotlin, Yandex Mapkit, Room
 - Отметки на карте с локальным сохранением.
 - [Ссылка на репозиторий](https://github.com/nmak1/YandexMaps)
