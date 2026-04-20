@@ -120,7 +120,7 @@
 
 ### 📬 Контакты
 
-- **Email:** nmak1@rambler.ru (быстрее всего отвечаю сюда)
+- **Email:** namakarov1@gmail.com (быстрее всего отвечаю сюда)
 - **GitHub:** [nmak1](https://github.com/nmak1)
 
 ---
